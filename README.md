@@ -26,3 +26,6 @@ THEN I find a concise, descriptive title
 * re-arranged structure in css
 * Added alt attributes to the image elements
 * looked for missing tags and checked for missing punctuation
+
+# Deploy URL
+https://jackiem2.github.io/jacqueline-Horiseon-Challenge/
